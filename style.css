@@ -1,23 +1,48 @@
 
 .navbar-default {
     background-color: #ffffff;
+    margin-bottom: 25px;
 }
 
 #bar{
  border-bottom: 1px solid #DFDFDF;
 }
 
+#suggested{
+  margin-top: 90px;
+  width: 500px;
+}
 
+/* CSS FOR POST */
+.post-actions{
+  margin-top: -10px;
+}
+.likes{
+  font-weight: bold;
+  font-size: 13px;
+}
 
+.post-form input{
+  font-size: 10px;
+}
+.post-form{
+  margin-bottom: -11px;
+  margin-bottom: -12px;
+}
+.post-actions a{
+  padding-right: -10px;
 
-
-
+}
 .post-profile{
   padding-top: 3px;
   padding-bottom: 3px;
   font-size: 12px;
   font-weight:bold;
 }
+.comment{
+  font-size: 13px;
+}
+
 .post-profile h7{
   padding-left: 8px;
 }
@@ -29,6 +54,10 @@
  padding-left: 5px;
  padding-bottom: 5px;
 }
+/* end css for post */
+
+
+
 
 body {
  background-color: #FAFAFA;
