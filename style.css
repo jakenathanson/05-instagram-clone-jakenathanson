@@ -1,0 +1,35 @@
+
+.navbar-default {
+    background-color: #ffffff;
+}
+
+#bar{
+ border-bottom: 1px solid #DFDFDF;
+}
+
+
+
+
+
+
+.post-profile{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 12px;
+  font-weight:bold;
+}
+.post-profile h7{
+  padding-left: 8px;
+}
+.post-profile img{
+ border-radius: 50%;
+ height: 30px;
+ height: 40px;
+ padding-top: 5px;
+ padding-left: 5px;
+ padding-bottom: 5px;
+}
+
+body {
+ background-color: #FAFAFA;
+}
